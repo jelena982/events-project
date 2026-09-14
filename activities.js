@@ -2,7 +2,7 @@ const activities = [
   {
     activity: "Paddle Boarding",
     description:
-      "Ova aktivnost je dio ture uz obalu i zabavna je za goste svih uzrasta. Aktivnost stajanja na dasci za veslanje (Paddle Boarding) dio je paketa  i opuštena je i zabavna aktivnost za sve. Održava se na dan dolaska gostiju u obalnu kuću, nakon što su uživali u dobrodošlom ručku. Stajanje na dasci za veslanje (SUP) najbrže je rastući vodeni sport. Zabavan je, lako se uči i održava vas u formi. Bez obzira je li vam prvi put na dasci ili ste iskusni veslač, možemo vas opremiti najboljom opremom i odvesti vas na avanturu SUP-om.",
+      "This activity is part of the coastal tour and is fun for guests of all ages. Paddle boarding is included in the package and is a relaxed and enjoyable activity for everyone. It takes place on the day guests arrive at the coastal house, after enjoying a welcome lunch. Stand-up paddle boarding (SUP) is the fastest-growing water sport. It's fun, easy to learn, and keeps you fit. Whether it's your first time on the board or you're an experienced paddler, we can equip you with the best gear and take you on a SUP adventure.",
 
     cijena: "70€",
     img: "img/paddeling.jpg",
@@ -14,7 +14,7 @@ const activities = [
   {
     activity: "Mountaineering",
     description:
-      "Planinarenje i alpinizam su dva sporta koja dijele slične karakteristike, međutim, kao općenito pravilo, planinarenje je aktivnost koju možete pratiti bez potrebe za bilo kojom specijalnom ili tehničkom opremom, dok će alpinizam zahtijevati uporabu tehničke opreme poput užeta, pojasa, dereza i eventualno ledenih sekira. Alpinizam je fizički izazovniji sport i određena razina znanja i obuke trebala bi se steknuti prije pokušaja bilo kakvih teških planinarskih tura. To znanje može uključivati navigaciju, tehnike vezanja užeta, upotrebu dereza i ledenih sekira, osnove prve pomoći i razumijevanje vremenskih uvjeta u planinama. Alpinizam nudi neograničene mogućnosti za izazove, užitak i uzbuđenje!",
+      "Hiking and mountaineering are two sports that share similar characteristics. However, hiking is an activity you can follow without any special equipment, while mountaineering requires technical gear like ropes, harnesses, and possibly ice axes. Mountaineering is a physical sport, and certain skills and training should be acquired before attempting difficult climbs. This knowledge may include navigation, rope-tying techniques, the use of crampons and ice axes, basic first aid, and understanding mountain weather conditions. Mountaineering offers unlimited opportunities for challenge, enjoyment, and excitement!",
 
     cijena: "100€",
     img: "img/penjanje.jpg",
@@ -26,7 +26,7 @@ const activities = [
   {
     activity: "Jeep Safari",
     description:
-      "Ova tura džipom je opuštena aktivnost puna uzbuđenja i naziva se  jer je to pravi potpuni krug oko veličanstvenih Durmitorskih planina. Dužina ture je 85 km. Tura traje između 4-5 sati s povratkom u naš kompleks. Ruta vodi goste kroz planine Durmitora za opuštenu aktivnost koja obuhvaća najbolje prirodne ljepote i krajolike područja. Duž puta ima mnogo stajanja za goste da naprave nevjerojatne i zadivljujuće fotografije. Tura džipom će naše goste odvesti preko panorama Zabljaka, na prosječnoj visini od 1800 m nadmorske visine.",
+      "This jeep tour is a relaxed activity full of excitement and is called so because it is a true complete circle around the magnificent Durmitor Mountains. The tour length is 85 km. The tour lasts between 4-5 hours, returning to our complex. The route takes guests through the Durmitor Mountains for a relaxing activity that encompasses the area's best natural beauty and landscapes. Along the way, there are many stops for guests to take incredible and stunning photos. The jeep tour will take our guests across the panoramas of Zabljak, at an average altitude of 1800 m above sea level.",
     cijena: "200€",
     img: "img/jeep.jpg",
     galerija: "img/jeep1.jpg",
@@ -37,7 +37,7 @@ const activities = [
   {
     activity: "Lakes & Canyon Tours",
     description:
-      "Ova aktivnost je savršen način za opuštanje i uživanje u Durmitoru. Tura obuhvaća brojne zanimljive točke, pružajući gostima priliku da istraže ljepote ovog područja. Počinje s opcionalnom premium aktivnošću zip-lininga, nakon čega slijede ugodne šetnje oko dva jezera, uz mogućnost plivanja za zainteresirane goste. Jezera su udaljena oko 20 km od grada Zabljaka. Nakon toga, gosti uživaju u tradicionalnom crnogorskom ručku, a potom slijedi posjet kanjonu Curevac s nevjerojatnim pogledima. Cijela aktivnost traje oko 5-6 sati.",
+      "This activity is a perfect way to relax and enjoy Durmitor. The tour encompasses numerous points of interest, providing guests with the opportunity to explore the beauty of this area. It begins with an optional premium activity of zip-lining, followed by leisurely walks around two lakes, with the possibility of swimming for interested guests. The lakes are about 20 km away from the town of Zabljak. Afterward, guests enjoy a traditional Montenegrin lunch, followed by a visit to the Curevac Canyon with incredible views. The entire activity lasts about 5-6 hours.",
     cijena: "100€",
     img: "img/lake.jpg",
     galerija: "img/lake1.jpg",
@@ -48,7 +48,7 @@ const activities = [
   {
     activity: "Rafting Tours",
     description:
-      "Spust niz čiste vode rijeke Tare je sjajno iskustvo koje svaki gost treba probati! Na visini od 1300 metara, Tara kanjon je drugi najdublji kanjon na svijetu, iza samo Velikog kanjona u SAD-u! Tara rijeka je samo kratkih 25 minuta vožnje udaljena od kampa i upisana je na UNESCO-ov popis svjetske baštine, s raftingom na Tari kao jednom od najpopularnijih turističkih aktivnosti za sve posjetitelje Crne Gore. Aktivnost raftinga uključuje svu visokokvalitetnu opremu, koja je dizajnirana za ekstremno rafting (neoprenska odijela, neoprenske čizme, pojas za spašavanje, kacige). Tara rijeka je najatraktivniji kanjon u Europi i bogata je prirodom; s prekrasnim slapovima, divljim pritokama i gustim šumama! Aktivnost raftinga je predivno iskustvo koje će ostati s svim našim gostima zauvijek, stoga skočite na brod i pridružite se brzacima za odlično vrijeme!",
+      "The descent down the pristine waters of the Tara River is a brilliant experience every guest should try! At an altitude of 1300 meters, the Tara Canyon is the second deepest canyon in the world, surpassed only by the Grand Canyon in the USA! The Tara River is just a short 25-minute drive from the campsite and is listed as a UNESCO World Heritage Site, with Tara rafting being one of the most popular tourist activities for all visitors to Montenegro. Rafting activity includes all high-quality equipment designed for extreme rafting.",
     cijena: "200€",
     img: "img/rafting.jpg",
     galerija: "img/rafting1.jpg",
@@ -59,7 +59,7 @@ const activities = [
   {
     activity: "Boka Bay Tour",
     description:
-      "Ovo je opuštena aktivnost koju naši gosti mogu odabrati, jer je to divan izlet na obalu Crne Gore koji obuhvaća čudesni zaljev Kotora. Ova aktivnost pružila bi gostima fantastične krajolike i povijest, posjećujući povijesne gradove u zaljevu. Obalni obilazak uključuje: Grad Perast - Kotor - Tivat (Porto Montenegro) - Morinj. Za ovu aktivnost potrebno je minimalno 6 osoba.",
+      "This is a relaxed activity our guests can opt for, as it is a wonderful coastal excursion in Montenegro encompassing the marvelous Bay of Kotor. This activity would provide guests with fantastic landscapes and history, visiting historic towns in the bay. The coastal tour includes: Perast - Kotor - Tivat (Porto Montenegro) - Morinj. Particularly attractive is the tour of the islands Our Lady of the Rocks and St. George, located near the town of Perast. A minimum of 6 persons is required for this activity.",
     cijena: "390€",
     img: "img/boka.jpg",
     galerija: "img/boka1.jpg",
@@ -70,7 +70,7 @@ const activities = [
   {
     activity: "Canyon Nevidio",
     description:
-      "Nevidio kanjon se nalazi u centralnom dijelu Crne Gore, na južnim padinama Durmitora. Kroz kanjon protiče rijeka Mala Komarnica koja izvire na području Dobrog doa. Nevidio kanjon zaista nosi svoje ime, jer se rijeka Mala Komarnica gubi nakon ulaska u kanjon, u čudesno izvajanom ulazu koji postaje nevidljiv ljudskom oku. Nevidio kanjon predstavlja vrstu galerije prirode čije skulpture oblikuju stijene i voda. /n Nevidio kanjon je dug oko 2 kilometra, s razlikom u nadmorskoj visini od 125 metara. Stijene kanjona dosežu visinu od 450 metara, a u nekim područjima širine su samo pola metra. Ulaz u kanjon nalazi se na nadmorskoj visini od 1050 metara. Jedna od najboljih atrakcija ovog područja je selo Pošćenje, koje ima dva ledenjačka jezera i periodični vodopad zvan Skakavica - koji razbacuje vodu rijeke Grabovice u kanjon s stijene visoke sedamdeset metara. Danas Nevidio kanjon predstavlja jedinstvenu turističku atrakciju, s prekrasnom klisurom, pjenušavim i svjetlucavim valovima, kaskadama i bazenima koji su dovoljni razlozi za posjet kanjonu!",
+      "The Nevidio Canyon lies in central Montenegro, on the southern slopes of Durmitor. It's traversed by the Mala Komarnica River, originating in Dobri Do. True to its name, the river disappears upon entering the canyon, in a marvelously sculpted entrance invisible to the human eye. The Nevidio Canyon is a natural gallery where water and rocks shape sculptures. It stretches about 2 kilometers, with a 125-meter elevation difference. Canyon walls rise to 450 meters, some areas only half a meter wide. It's a testament to nature's artistry, hidden in Montenegro's heart.",
     cijena: "100€",
     img: "img/nevidio.jpg",
     galerija: "img/nevidio1.jpg",
@@ -81,7 +81,7 @@ const activities = [
   {
     activity: "Adrenaline Zip line",
     description:
-      "Uzbudljiva avantura zip linijom duž rijeke Tare! Zip linija, koja se proteže pokraj mosta Đurđevića Tara, pruža nezaboravno iskustvo visokog adrenalina. Sa svojih 824 metra duljine i visine od oko 180 metara, ova zip linija je najduža u Europi. Zaokupljeni uzbuđenjem i osjećajem slobode, sudionici prolaze kroz nevjerojatne pejzaže kanjona rijeke Tare. Putovanje zip linijom traje otprilike 2-3 minute, tijekom kojih se pružaju zadivljujući panoramski pogledi. Ova adrenalinska aktivnost jamči doživljaj koji će se dugo pamtiti! Ubrzani povjetarac, osjećaj slobode i pogledi koji oduzimaju dah - sve to čeka hrabre avanturiste na zip liniji preko kanjona rijeke Tare. Dok se spuštaju niz najdužu zip liniju u Europi, dugačku 824 metra i visoku oko 180 metara, sudionici doživljavaju nevjerojatnu dozu adrenalina. Ova adrenalinska avantura traje oko 2-3 minute, ali ostavlja trajne uspomene zahvaljujući spektakularnim pejzažima koji se pružaju ispred njih. Nema ništa poput osjećaja letenja iznad netaknute prirode kanjona Tare - doživljaj koji se ne zaboravlja!",
+      "Exciting adventure of zip-lining along the Tara River! The zip line, stretching past the Đurđevića Tara Bridge, offers an unforgettable high-adrenaline experience. With its 824 meters in length and about 180 meters in height, this zip line is the longest in Europe. Captivated by the excitement and feeling of freedom, participants glide through the incredible landscapes of the Tara River Canyon. The zip line journey lasts approximately 2-3 minutes, during which breathtaking panoramic views unfold. This adrenaline activity guarantees an experience that will be long remembered! ",
     cijena: "20€",
     img: "img/zip.jpg",
     galerija: "img/zip1.jpg",
@@ -92,7 +92,7 @@ const activities = [
   {
     activity: "Horse riding",
     description:
-      "Ova uzbudljiva aktivnost jahanja konja nudi nezaboravno iskustvo u prirodi. Bez obzira jeste li potpuni početnik ili već iskusni jahač, ovo je prilika da se prepustite čaroliji jahanja kroz prekrasne krajolike. Jahanje konja je jedinstveno iskustvo koje će osvojiti srca svih uzrasta. Bilo da se radi o opuštenoj vožnji ili avanturi u prirodi, ova aktivnost će biti vrhunac tjedna za sve koji se odluče sudjelovati. Zvuk kopita dok se lagano krećete kroz šumu ili osjećaj slobode dok prelazite prekrasne livade - to su samo neki od trenutaka koje možete doživjeti jahaći konja. Ova aktivnost nije samo uzbudljiva, već i terapeutski opuštajuća. Za djecu i odrasle, jahanje konja pruža priliku za povezivanje s prirodom na jedinstven način. Neovisno o tome tražite li avanturu ili samo trenutke mira, ova aktivnost će vam pružiti nezaboravan doživljaj koji će obogatiti vašu pustolovinu.",
+      "This exhilarating horseback riding activity offers an unforgettable nature experience. Whether you're a beginner or seasoned rider, it's a chance to immerse in the magic of riding through stunning landscapes. Horseback riding captures hearts of all ages, whether a leisurely ride or a nature adventure, it's a weekly highlight. The sound of hooves in the forest or the freedom crossing meadows - moments to cherish. This activity, exciting and therapeutically relaxing, promises memorable experiences.",
     cijena: "20€",
     img: "img/horse.jpg",
     galerija: "img/horse1.jpg",
@@ -103,7 +103,7 @@ const activities = [
   {
     activity: "Trekking tours",
     description:
-      "Pješačke aktivnosti uključuju jednodnevne ili višednevne ture duž planina i ruralnih područja u Durmitoru. Za višednevne pješačke aktivnosti, to može uključivati noćenje u prirodi, s prenoćištima organiziranim u šatorima ili ljetnim planinskim kućicama. Ovisno o trajanju pješačke aktivnosti, moguće je posjetiti cijelo područje i planinske lance. Jedna od sjajnih strana pješačenja je što zahtijeva minimalnu opremu, a zauzvrat pruža užitak u svakom koraku koji napravite! Kao pravilo, za pješačenje nije potrebno posebno tehničko znanje, ali udobne cipele za hodanje, odgovarajuća oprema i, ovisno o odredištu, dobra fizička kondicija su potrebni. Mogućnosti odabira odredišta su zaista velike i ovise o vašem raspoloženju i trenutnim mogućnostima. Bez obzira na to koju pješačku turu naši gosti odaberu, najvažniji aspekt bit će njihova interakcija s prirodom i uživanje u svježem planinskom zraku!",
+      "Hiking activities include single-day or multi-day tours along the mountains and rural areas in Durmitor. For multi-day hiking activities, this may involve overnight stays in nature, with accommodations organized in tents or summer mountain huts. Depending on the duration of the hiking activity, it's possible to visit the entire area and mountain ranges. The destination choices are truly vast and depend on your mood and current capabilities. Regardless of which hiking tour our guests choose, the most important aspect will be their interaction with nature and enjoying the fresh mountain air!",
     cijena: "50€",
     img: "img/pjeske.jpg",
     galerija: "img/pjeske1.jpg",
@@ -114,7 +114,7 @@ const activities = [
   {
     activity: "Mountain Bike Activity",
     description:
-      "Ruta biciklizma usredotočena je na uživanje u prirodi, svježem zraku i suncu, a manje na postizanje brzinskih rekorda. Putovanje prolazi kroz različita područja uključujući Moticiki Gaj, Zabljak i okolna seoska područja Durmitora. Traje otprilike 4,5-5,5 sati s učestalim pauzama. Pogledi na planine i prirodu tijekom vožnje su spektakularni. Također, dostupna je i dvodnevna aktivnost planinskog biciklizma koja obuhvaća rutu Oko Durmitora, s noćenjem u selu Trsa. Ova aktivnost planinskog biciklizma pruža nezaboravno iskustvo istraživanja netaknute prirode Durmitora na dva kotača. Vožnja kroz raznolike krajolike omogućuje gostima da u potpunosti dožive ljepotu i raznolikost ovog područja. Bez obzira jeste li zaljubljenik u aktivni odmor ili jednostavno želite uživati u opuštenoj vožnji kroz prirodu, ova aktivnost nudi nešto za svakoga. Dvodnevna ruta Oko Durmitora pruža dublji uvid u ljepotu ovog područja, omogućavajući gostima da istraže šume, planine i ravnice Durmitora te da dožive lokalni način života kroz noćenje u selu Trsa.",
+      "The biking route is aimed at enjoying nature, fresh air and sun rather than setting speed records. The journey passes through areas including Moticiki Gaj, Zabljak, and rural areas of Durmitor. It lasts 4-5 hours with frequent breaks. The views of mountains and nature during the ride are spectacular. Also available is a two-day mountain biking activity covering the route Around Durmitor, with an overnight stay in the village of Trsa. This activity provides an unforgettable experience of exploring the untouched nature of Durmitor. Riding through diverse landscapes allows guests to fully experience the beauty of this area. ",
     cijena: "50€",
     img: "img/biciklo.jpg",
     galerija: "img/biciklo1.jpg",
@@ -125,7 +125,7 @@ const activities = [
   {
     activity: "Kite Surfing",
     description:
-      "Iznenađenje za vaša čula jer plaža Ada Bojana je izuzetno mesto za boravak uz obalu! Smestena u zasticenom prirodnom podrucju, okružena dinama, aluvijalnom šumom i močvarama i sa pješčanom četrnaest kilometarskom plažom, savršeno skriva nevjerojatno mesto gde provesti letnji odmor. Područje je prepuno legendi, neispričanih priča i skrivenih mesta za istraživanje, pa gosti jednostavno treba da uzmu SUP, bicikl, dugačku dasku ili zmaja da bi se potpuno uronili u istraživanje!Kite-surfing nije težak za naučiti, jednostavno zamislite sebe kako sedite na plaži i gledate nekoga kako surfuje, izgleda tako prirodno da automatski počnete zamišljati sebe kako to radite. U vašem umu prolazite kroz pokrete, osećate vodu, vetar i to pokreće vaše telo da se pomera, od misli Mogu, mogu da to uradim do Voleo bih to da uradim! Kite-surfing instruktori su pravi profesionalci i garantuju da će gosti biti na dasci tokom svog trodnevnog kursa! Deca su najbolja u učenju kako da kite-surfuju i zbog njih će sport kite-boarding biti uključen na Olimpijskim igrama mladih 2018. To je sjajan sport za upoznavanje dece sa kite-surfingom i svim njegovim prednostima i zdravim načinom života. Svi instruktori za decu poseduju IKO licence.",
+      "An adventure for your senses as Ada Bojana Beach is an exceptional coastal retreat! Nestled in a protected natural area, surrounded by dunes and alluvial forest, with a fourteen-kilometer sandy beach, it perfectly hides an incredible spot for a summer getaway. The area is full of untold stories and hidden places, so guests simply need to grab a SUP, bike, longboard, or kite to fully immerse themselves in exploration! Learning kite-surfing isn't hard; just imagine yourself sitting on the beach watching someone surf, it looks so natural that you automatically start envisioning yourself doing it.",
     cijena: "150€",
     img: "img/kite.jpg",
     galerija: "img/kite1.jpg",
@@ -136,7 +136,7 @@ const activities = [
   {
     activity: "Sea Kayaking",
     description:
-      "Sjajan način da doživite obalu Crne Gore je naravno na morskoj vodi, a jedna od aktivnosti je kajak na moru! Kajakarenje na moru je sjajno za ljude da se opuste i uživaju u danu kajakarenja u prelepom Bokokotorskom zalivu sa licenciranim vodičima. Kajakarenje na moru može biti i zahtevan sport i odličan način opuštanja, upijanja pejzaža i dubokog udisanja morskog vazduha. Veslanjem preko zaliva možete istražiti njegovu lepotu iz različite perspektive i otkriti slikovito ribarsko selo Rose na poluostrvu Luštici. Gosti će se zabaviti i otkriti šareni morski život i osetiti bogatu istoriju crnogorske obale. Aktivnost je poludnevna tura i sjajna je za istraživanje tipičnog crnogorskog sela Rose, koje je osvojilo nagradu Divlja lepota 2013. sa pohvalama za najbolju turističku destinaciju u Crnoj Gori. Grad se nalazi nasuprot Herceg Novom duž poluostrva Luštice. Profesionalni licencirani vodiči koriste svu profesionalnu opremu: jedno i dvosedne kajake, prsluke za spasavanje, vesla, suve vreće - itd.",
+      "A great way to experience the Montenegrin coast is, of course, on the sea, and one of the activities is sea kayaking! Sea kayaking is fantastic for people to relax and enjoy a day of kayaking in the beautiful Bay of Kotor with licensed guides. Sea kayaking can be both a challenging sport and an excellent way to relax, soak in the scenery, and take deep breaths of sea air. Paddling across the bay allows you to explore its beauty from different perspectives and discover the picturesque fishing village of Rose on the Lustica Peninsula. Guests will have fun and discover the colorful marine life and feel the rich history of the Montenegrin coast. ",
     cijena: "100€",
     img: "img/kayak.jpg",
     galerija: "img/kajak1.jpg",
@@ -147,7 +147,7 @@ const activities = [
   {
     activity: "Sailing",
     description:
-      "Jedrenje je neverovatan način da doživite Jadransku obalu, i uvek je najbolje zapravo izaći i biti deo toga, a  jedriličarska aktivnost to i mnogo više pruža, jer gosti mogu naučiti osnove jedrenja dok uživaju u sjajnom, zabavnom danu u zalivu i na otvorenom moru! Jadranska obala blagoslovena je blagom i prijatnom klimom tokom cele godine, što je čini savršenom aktivnošću od rane proleća do kasne jeseni. Jedrilica je dužine 8 metara, a gosti će naučiti osnove jedrenja ili unaprediti svoje postojeće nautičke veštine. Naši iskusni, profesionalni i prijateljski skiperi izvešće goste na 4-satno iskustvo, što je savršeno vreme provedeno na vodi. Aktivnost će gostima pružiti osnove jedrenja, a sa ovim stečenim znanjem svaki gost će imati priliku da zaista preuzme kontrolu nad jedrima! Fantastična i nezaboravna aktivnost koja jednostavno omogućava uživanje i osećanje magije jedara, pustivši vetar da nas odvede do neverovatnih vidika i prirodnih laguna!",
+      "Sailing is an incredible way to experience the Adriatic coast, and it's always best to get out there and be a part of it. Sailing activity offers much as guests can learn the basics of sailing while enjoying a splendid, fun day in the bay on the open sea! The Adriatic coast is blessed with mild and pleasant weather throughout the year, making it the perfect activity from early spring to late autumn. The sailboat is 8 meters long, and guests will learn the basics of sailing or enhance their existing nautical skills. Our experienced, professional, and friendly skippers will take guests on a 4-hour experience, which is the perfect time spent on the water.",
     cijena: "250€",
     img: "img/sailing.jpg",
     galerija: "img/sailing1.jpg",
@@ -158,7 +158,7 @@ const activities = [
   {
     activity: "Kotor Bay Tour",
     description:
-      " Vožnja brodom oko Bokokotorskog zaliva jedini je način da zaista doživite neverovatne pejzaže. Ovo je opuštajući kulturni izlet, i gosti samo treba da se opuste i uživaju dok putuju ispod visokih fjordova Bokokotorskog zaliva. Vožnja brodom jednostavno je savršen način da vidite i posetite neka od crnogorskih gradova koji su deo UNESCO-ve svetske baštine i uživate u pejzažu i najpoznatijim lepotama, dok izbegavate gužvu. Plovidba Bokokotorskim zalivom nudi veoma zanimljivu istoriju kao i uvid u drevnu civilizaciju. Gosti mogu videti nekoliko malih primorskih gradova koji stvaraju utisak uspavanih lepotica koje nisu izgubile ništa od svoje izuzetnosti uprkos dugom vekovnom snu. Bogati arhitektonski detalji iz davnih vremena neće vas ostaviti ravnodušnim. Smješten uz jedan od najlepših zaliva Crne Gore je Kotor, grad trgovaca i poznatih mornara, sa mnogo priča za ispričati. Stari mediteranski grad Kotor, okružen impresivnim gradskim zidom izgrađenim od strane Nemanjića, veoma je dobro očuvan i zaštićen od strane UNESCO-a. Gosti će imati priliku da sami istraže prelep Stari grad i sa našim iskusnim skiperom, gostima će jednostavno biti sjajno videti zaliv iz mora!",
+      "Sailing around the Bay of Kotor is the only way to truly experience its incredible landscapes. This is a relaxing cultural excursion, and guests simply need to unwind and enjoy. Sailing is the perfect way to see and visit some of Montenegro's UNESCO World Heritage-listed cities and enjoy the scenery and famous beauties while avoiding the crowds. Sailing the Bay of Kotor offers a very interesting history and insight into ancient civilization. Guests can see several small coastal towns that create an impression of sleepy beauties. The rich architectural details from ancient times will not leave you indifferent.",
     cijena: "50€",
     img: "img/kotor.jpg",
     galerija: "img/kotor1.jpg",

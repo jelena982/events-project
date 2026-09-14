@@ -47,7 +47,7 @@ priceElement.classList.add("price-class");
 document.body.style.backgroundImage = `url('${imgElement.src}')`;
 document.body.style.backgroundSize= "cover";
 document.body.style.backgroundRepeat= "no-repeat";
-document.body.style.backgroundSize = "1600px 950px";
+document.body.style.backgroundSize = "cover";
 document.body.style.backgroundPosition = "top center";
 
 

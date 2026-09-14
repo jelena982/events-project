@@ -150,7 +150,7 @@ const events = [
     img: "img/MilkyWave.jpg",
     music_performer: "Svirka",
     type_of_music: "Rok muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -305,7 +305,7 @@ const events = [
     img: "img/polumenta.jpg",
     music_performer: "Koncert",
     type_of_music: "Narodna muzika",
-    reservation: "+382/716/211/999",
+    reservation: "716/211/999",
   },
 
   {
@@ -319,7 +319,7 @@ const events = [
     img: "img/libre.jpg",
     music_performer: "DJ",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -333,7 +333,7 @@ const events = [
     img: "img/irish.jpg",
     music_performer: "Svirka",
     type_of_music: "Rok muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
   {
     city: "Podgorica",
@@ -374,7 +374,7 @@ const events = [
     img: "img/zurka.jpg",
     music_performer: "DJ",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
   {
     city: "Podgorica",
@@ -457,7 +457,7 @@ const events = [
     img: "img/abba.jpg",
     music_performer: "Koncert",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -513,7 +513,7 @@ const events = [
     img: "img/NicimIzazvan.jpg",
     music_performer: "Svirka",
     type_of_music: "Rok muzika",
-    reservation: "+382/067/987/878",
+    reservation: "067/987/878",
   },
 
   {
@@ -541,7 +541,7 @@ const events = [
     img: "img/destilerija.jpg",
     music_performer: "DJ",
     type_of_music: "Rok muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -555,7 +555,7 @@ const events = [
     img: "img/www.jpg",
     music_performer: "DJ",
     type_of_music: "Narodna muzika i pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -583,7 +583,7 @@ const events = [
     img: "img/ragina.jpg",
     music_performer: "DJ",
     type_of_music: "Narodna i pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -641,7 +641,7 @@ const events = [
     img: "img/boom.jpg",
     music_performer: "Koncert",
     type_of_music: "Pop muzika",
-    reservation: "+382/52680080",
+    reservation: "52680080",
   },
 
   {
@@ -655,7 +655,7 @@ const events = [
     img: "img/barbara.jpg",
     music_performer: "Koncert",
     type_of_music: "Narodna muzika",
-    reservation: "+382/51 680 080",
+    reservation: "51 680 080",
   },
 
   {
@@ -669,7 +669,7 @@ const events = [
     img: "img/pedja.jpg",
     music_performer: "Svirka",
     type_of_music: "Narodna muzika",
-    reservation: "+382/51 680 080",
+    reservation: "51 680 080",
   },
   //////////////////////////////////////////////////////////////////////////////
 
@@ -698,7 +698,7 @@ const events = [
     img: "img/djj.jpeg",
     music_performer: "DJ",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -725,7 +725,7 @@ const events = [
     img: "img/zurka1.jpg",
     music_performer: "DJ",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -739,7 +739,7 @@ const events = [
     img: "img/mahir.jpeg",
     music_performer: "Koncert",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   ////////////////////////////////////////////////////////////////////////////////////////
@@ -755,7 +755,7 @@ const events = [
     img: "img/sekulic.jpg",
     music_performer: "Svirka",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -769,7 +769,7 @@ const events = [
     img: "img/13.jpg",
     music_performer: "DJ",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -783,7 +783,7 @@ const events = [
     img: "img/alen.jpg",
     music_performer: "Svirka",
     type_of_music: "Narodna muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -811,7 +811,7 @@ const events = [
     img: "img/mladjen.jpg",
     music_performer: "Svirka",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -825,7 +825,7 @@ const events = [
     img: "img/kino.jpeg",
     music_performer: "Svirka",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   ////////////////////////////////////////////////////////////////////////////////////////////
@@ -841,7 +841,7 @@ const events = [
     img: "img/exit.jpg",
     music_performer: "Svirka",
     type_of_music: "Pop muzika",
-    reservation: "+382/69 576 544",
+    reservation: "69 576 544",
   },
 
   {
@@ -855,7 +855,7 @@ const events = [
     img: "img/apollon.jpg",
     music_performer: "DJ",
     type_of_music: "Narodna i pop muzika",
-    reservation: "+382/69 576 544",
+    reservation: "69 576 544",
   },
 
   //////////////////////////////////////////////////////////////////////////////////
@@ -871,7 +871,7 @@ const events = [
     img: "img/mans.jpg",
     music_performer: "Svirka",
     type_of_music: "Pop muzika",
-    reservation: "+382/69 812 435",
+    reservation: "69 812 435",
   },
 
   {
@@ -885,7 +885,7 @@ const events = [
     img: "img/krvavatzzz.jpg",
     music_performer: "DJ",
     type_of_music: "Tehno",
-    reservation: "+382/68 208 250",
+    reservation: "68 208 250",
   },
 
   {
@@ -899,23 +899,23 @@ const events = [
     img: "img/river.jpg",
     music_performer: "Svirka",
     type_of_music: "Narodna muzika",
-    reservation: "+382/69 812 435",
+    reservation: "69 812 435",
   },
 
   /////////////////////////////////////////////////////////////////////////////////////////////
 
   {
     city: "Kolasin",
-    name: "DJ Nemanja",
+    name: "DJ 068/313/118nja",
     location: "Select Night Club",
     entry: "Besplatan",
     day: "Subota",
     date: "18.Maj",
     hours: "23:00",
-    img: "img/nemanja.jpg",
+    img: "img/068/313/118nja.jpg",
     music_performer: "DJ",
     type_of_music: "Pop muzika",
-    reservation: "+382/69 216 594",
+    reservation: "69 216 594",
   },
   {
     city: "Kolasin",
@@ -928,7 +928,7 @@ const events = [
     img: "img/looko.jpg",
     music_performer: "DJ",
     type_of_music: "Pop muzika",
-    reservation: "+382/69 216 594",
+    reservation: "69 216 594",
   },
 
   ///////////////////////////////////////////////////////////////////////////////////////////////////
@@ -943,7 +943,7 @@ const events = [
     img: "img/sarajo.jpg",
     music_performer: "Koncert",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
   {
     city: "Pluzine",
@@ -956,7 +956,7 @@ const events = [
     img: "img/dzenan.jpeg",
     music_performer: "Koncert",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
   {
     city: "Pluzine",
@@ -969,7 +969,7 @@ const events = [
     img: "img/haris.jpg",
     music_performer: "Koncert",
     type_of_music: "Narodna muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -983,7 +983,7 @@ const events = [
     img: "img/bajaga.jpg",
     music_performer: "Koncert",
     type_of_music: "Pop muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {
@@ -997,7 +997,7 @@ const events = [
     img: "img/bekuta.jpg",
     music_performer: "Koncert",
     type_of_music: "Narodna muzika",
-    reservation: "Nema",
+    reservation: "068/313/118",
   },
 
   {

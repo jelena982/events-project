@@ -244,7 +244,7 @@ body{
     z-index: 8;
     position: absolute;
     top: 55%;
-    left: 7%;
+    left: 5%;
     font-weight: bold;
     font-size: 18px;
   }
@@ -258,10 +258,11 @@ body{
   #success-message svg{
     position: absolute;
     left: 50%;
-    top: -200%;
+    top: -220%;
     transform: translate(-50%);
   
   }
+  
   
   .contact-ok{
     background-color: rgb(0, 0, 0);
@@ -390,3 +391,15 @@ body{
   
   }
 
+
+.card { width: min(1200px, calc(100% - 32px)); margin: 24px auto; }
+.card-desc { width: 100%; min-width: 0; }
+.card-desc h3 { font-size: clamp(26px, 5vw, 36px); margin: 20px 0; text-align: center; }
+.description-element { margin: 0; text-align: left; line-height: 1.6; }
+.price-icon { display: none; }
+.price-class { position: static; transform: none; rotate: none; width: fit-content; margin: 24px auto; background: #0009; }
+.img-small-container { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); width: 100%; height: auto; margin: 32px 0; padding: 16px; gap: 16px; }
+.card-desc .img-small-container img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; margin: 0; }
+@media (max-width: 600px) {
+  .img-small-container { grid-template-columns: 1fr; }
+}

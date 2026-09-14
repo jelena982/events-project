@@ -304,3 +304,10 @@ footer img {
 .slide-right {
   transform: translateX(2%);
 }
+
+.container { height: auto; padding: 0 16px 40px; }
+.gallery { width: min(700px, 100%); }
+.gallery img { width: 100%; height: auto; aspect-ratio: 7 / 4; }
+.gallery .prev { left: 8px; }
+.gallery .next { right: 8px; }
+.gallery button { min-width: 44px; min-height: 44px; }

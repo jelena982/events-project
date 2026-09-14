@@ -1,7 +1,5 @@
 const img = [
-  {
-    img: "img/parti1.jpg",
-  },
+  
   {
     img: "img/parti2.jpg",
   },
@@ -16,6 +14,9 @@ const img = [
   },
   {
     img: "img/parti6.jpg",
+  },
+  {
+    img: "img/parti1.jpg",
   },
   {
     img: "img/parti7.jpg",

@@ -637,7 +637,7 @@ body {
   z-index: 8;
   position: absolute;
   top: 55%;
-  left: 7%;
+  left: 3.4%;
   font-weight: bold;
   font-size: 18px;
 }
@@ -651,10 +651,11 @@ body {
 #success-message svg{
   position: absolute;
   left: 50%;
-  top: -200%;
+  top: -220%;
   transform: translate(-50%);
 
 }
+
 
 .contact-ok{
   background-color: rgb(0, 0, 0);
@@ -900,3 +901,36 @@ footer img{
   align-items: center;
 
 }
+
+/* Keep cards and popup content within the available viewport. */
+.bg-image { min-height: clamp(300px, 65vh, 650px); display: grid; place-items: center; padding: 24px; }
+.naslov { position: static; transform: none; margin: 0; font-size: clamp(26px, 5vw, 40px); }
+.text { margin: 24px auto; padding: 0 16px; }
+.text p:last-child { width: min(700px, 100%); }
+.text p:first-child { font-size: clamp(28px, 5vw, 40px); }
+#events-container, .activities-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 24px; width: min(1100px, calc(100% - 32px)); margin: 30px auto; }
+.event-card, .activities-container .card, .activities-container .card:first-child { width: 100%; min-width: 0; height: auto; margin: 0; }
+.event-card { min-height: 350px; }
+.activities-container { padding: 20px 0; }
+.activities-container img { object-fit: cover; }
+#load-more-btn { display: block; margin: 20px auto; min-height: 44px; }
+.activities-naslov { width: min(1100px, calc(100% - 32px)); margin: 30px auto 20px; }
+.navigation-btn { display: flex; justify-content: center; gap: 24px; margin: 20px auto; }
+#prevBtn, #nextBtn { position: static; min-width: 44px; min-height: 44px; }
+.image-slider { position: static; display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; }
+.btns { flex-wrap: wrap; gap: 16px; }
+#popup-overlay { padding: 24px; z-index: 10000; }
+#popup-content { position: relative; width: min(340px, 100%); height: auto; max-height: calc(100dvh - 48px); overflow-y: auto; padding: 80px 16px 20px; flex-shrink: 0; }
+#popup-image { height: auto; max-height: 260px; object-fit: cover; margin: 0; flex-shrink: 0; }
+#close-popup-btn { top: 35px; left: 20px; min-height: 44px; padding-left: 25px; }
+.svg-phone-arrow { left: 0; top: 10px; }
+.like-button { top: 40px; left: auto; right: 16px; }
+.black-rect { top: 8px; width: 80px; height: 20px; }
+.phone-time { top: 10px; left: 16px; margin: 0; }
+.dots-icon { top: 12px; left: auto; right: 64px; }
+.wifi-icon { top: 10px; left: auto; right: 42px; }
+.battery-icon { top: 7px; left: auto; right: 14px; }
+#popup-text { gap: 12px; }
+#popup-text p { position: static; margin: 0; padding: 8px; flex-direction: row; align-items: center; gap: 8px; text-align: left; }
+#popup-text svg { position: static; flex-shrink: 0; }
+.rezervacija { color: #222; justify-content: center; }

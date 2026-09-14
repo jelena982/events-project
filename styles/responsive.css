@@ -1,0 +1,24 @@
+/* Shared fluid layout and touch-friendly controls. */
+body { margin: 0; overflow-wrap: break-word; }
+img, video { max-width: 100%; }
+.navigation { height: auto; min-height: 80px; padding: 8px clamp(16px, 3vw, 48px); gap: 16px; flex-wrap: wrap; }
+.image-nav { width: 130px; height: auto; margin: 0; }
+.nav-list { padding: 0; margin: 0; flex-wrap: wrap; justify-content: center; gap: 8px 20px; }
+.nav-list .link { display: inline-flex; align-items: center; min-height: 44px; }
+.search-nav { flex: 1 1 220px; width: auto; max-width: 500px; min-width: 0; padding: 0 16px; font-size: 16px; }
+footer { height: auto; min-height: 110px; padding: 16px 24px 100px; gap: 20px; justify-content: space-between; flex-wrap: wrap; text-align: center; }
+footer > * { margin: 0; }
+#popup { right: 16px; bottom: 100px; width: min(350px, calc(100% - 32px)); height: 500px; max-height: calc(100dvh - 116px); overflow-y: auto; }
+.forma { width: 100%; }
+.forma input { width: 100%; min-width: 0; font-size: 16px; }
+#success-message { position: static; padding: 24px 16px; text-align: center; }
+#success-message svg { position: static; transform: none; display: block; margin: 0 auto; }
+.contact-ok { position: static; margin: 20px auto 0; min-height: 44px; }
+#sticky-button { right: 16px; bottom: 16px; width: 64px; height: 64px; }
+button { touch-action: manipulation; }
+@media (max-width: 600px) {
+  .navigation { justify-content: center; gap: 8px 16px; }
+  .image-nav { width: 110px; }
+  .search-nav { order: 3; flex-basis: 100%; max-width: none; }
+  footer { flex-direction: column; }
+}

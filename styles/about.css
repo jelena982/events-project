@@ -190,7 +190,7 @@ body {
   z-index: 8;
   position: absolute;
   top: 55%;
-  left: 7%;
+  left: 5%;
   font-weight: bold;
   font-size: 18px;
 }
@@ -204,7 +204,7 @@ body {
 #success-message svg{
   position: absolute;
   left: 50%;
-  top: -200%;
+  top: -220%;
   transform: translate(-50%);
 
 }
@@ -393,4 +393,13 @@ footer img{
   margin-bottom: 50px;
   border-radius: 15px;
 
+}
+
+.about-us { margin: 0; padding: 40px 16px 20px; text-align: center; }
+.first-part, .second-part { width: min(1400px, 100%); padding: 24px; gap: 32px; align-items: center; }
+.first-part img, .second-part img { width: calc(50% - 16px); height: auto; margin: 0; object-fit: cover; }
+.first-part-text, .second-part p { flex: 1; min-width: 0; width: auto; height: auto; margin: 0; padding: 20px; text-align: left; line-height: 1.6; }
+@media (max-width: 900px) {
+  .first-part, .second-part { flex-direction: column; }
+  .first-part img, .second-part img { width: 100%; }
 }
