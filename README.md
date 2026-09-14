@@ -15,9 +15,6 @@ JavaScript
 Responsive Web Design
 Authors
 
-This project was collaboratively designed and developed by:
-
-Jelena Damjanović
-Aleksej Prodanović
+This project was collaboratively developed by Jelena Damjanović (@jelena982) and @prodanovicaleksej.
 
 Both authors worked together on the website structure, styling, JavaScript functionality, content, and responsive design.
